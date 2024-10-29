@@ -2,12 +2,11 @@
 - Currently taking **BS in Computer Science** at **University of San Carlos** 🔰
 - Trying to do better 
 
-<details>
-<b>Tech Stack 👨🏻‍💻</b>
+<b>Tech Stack: </b>
 <div align="center">
     
 #### Front-end
-<div align="left">
+<div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="html5 logo"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css3 logo"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="javascript logo"/>
@@ -17,19 +16,15 @@
 </div>
 
 #### Back-end
-<div align="left">
+<div>
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="nodejs"/>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo">
 </div>
 
 #### Others
-<div align="left">
+<div">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c logo">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java logo">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)">
 </div>
-
-<h1></h1>
-
 </div>
-</details>
