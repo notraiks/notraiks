@@ -1,6 +1,8 @@
+#
 ### About me:
 - Currently taking **BS in Computer Science** at **University of San Carlos** 🔰
 - Trying to do better 
+##
 
 <b>Tech Stack: </b>
 <div align="center">
